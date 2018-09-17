@@ -1,3 +1,3 @@
-# hello-world
+# C++
 Magazyn
 To jest miejsce na naukę C++
